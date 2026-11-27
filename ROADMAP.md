@@ -18,7 +18,7 @@ High-level direction for Aimlake Open Telematics. Dates are intentional goals, n
 
 ## Later — polish & OSS launch
 
-- [ ] API playground sandbox (synthetic data)
+- [x] API playground sandbox (synthetic data) — live on developer.aimlake.com/telematics/#playground
 - [ ] Telemetry simulator + published reproducible benchmarks
 - [ ] Full OSS release package (SBOM, signed artifacts, SDK docs)
 - [ ] Partner integrations (Grabbey, Torqon, AIVAS) **outside** core

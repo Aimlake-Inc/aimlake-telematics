@@ -1,7 +1,8 @@
 # Developer console & API playground
 
 **App:** `apps/dashboard`  
-**Status:** Planned — build as needed.
+**Status:** Planned — build as needed.  
+**Public sandbox now:** Interactive API playground ships on `developer.aimlake.com/telematics/#playground` with synthetic devices/trips only (no real customer data). Full in-console playground lands with the dashboard app.
 
 ## UX
 
